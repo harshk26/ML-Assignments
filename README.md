@@ -1,2 +1,2 @@
 # ML-Assignments
-This file contains code for cleaing tweets.
+This file contains code for cleaning tweets.
